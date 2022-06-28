@@ -1,0 +1,146 @@
+
+duongnoi.png
+size: 2404,2404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 2, 238
+  size: 1922, 1082
+  orig: 1922, 1082
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 2358, 1294
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2358, 1294
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 2358, 1294
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 2358, 1294
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+game noi-TV-4-4
+  rotate: false
+  xy: 2, 1322
+  size: 2400, 1080
+  orig: 2400, 1080
+  offset: 0, 0
+  index: -1
+kn1_blue
+  rotate: false
+  xy: 2214, 586
+  size: 10, 142
+  orig: 10, 142
+  offset: 0, 0
+  index: -1
+kn1_green
+  rotate: false
+  xy: 2214, 442
+  size: 10, 142
+  orig: 10, 142
+  offset: 0, 0
+  index: -1
+kn1_red
+  rotate: false
+  xy: 2358, 1150
+  size: 10, 142
+  orig: 10, 142
+  offset: 0, 0
+  index: -1
+kn1_ye
+  rotate: false
+  xy: 2358, 1006
+  size: 10, 142
+  orig: 10, 142
+  offset: 0, 0
+  index: -1
+kn2_blue
+  rotate: false
+  xy: 1926, 295
+  size: 300, 142
+  orig: 300, 142
+  offset: 0, 0
+  index: -1
+kn2_green
+  rotate: false
+  xy: 1926, 151
+  size: 300, 142
+  orig: 300, 142
+  offset: 0, 0
+  index: -1
+kn2_red
+  rotate: false
+  xy: 1186, 94
+  size: 300, 142
+  orig: 300, 142
+  offset: 0, 0
+  index: -1
+kn2_ye
+  rotate: false
+  xy: 1488, 94
+  size: 300, 142
+  orig: 300, 142
+  offset: 0, 0
+  index: -1
+kn3_blue
+  rotate: true
+  xy: 2214, 730
+  size: 590, 142
+  orig: 590, 142
+  offset: 0, 0
+  index: -1
+kn3_green
+  rotate: true
+  xy: 2228, 138
+  size: 590, 142
+  orig: 590, 142
+  offset: 0, 0
+  index: -1
+kn3_red
+  rotate: false
+  xy: 2, 94
+  size: 590, 142
+  orig: 590, 142
+  offset: 0, 0
+  index: -1
+kn3_ye
+  rotate: false
+  xy: 594, 94
+  size: 590, 142
+  orig: 590, 142
+  offset: 0, 0
+  index: -1
+kn4_green
+  rotate: true
+  xy: 1926, 439
+  size: 881, 142
+  orig: 881, 142
+  offset: 0, 0
+  index: -1
+kn4_red
+  rotate: true
+  xy: 2070, 439
+  size: 881, 142
+  orig: 881, 142
+  offset: 0, 0
+  index: -1
